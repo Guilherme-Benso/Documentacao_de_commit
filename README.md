@@ -4,14 +4,14 @@ Trata-se de um arquivo com os padrões utilizados na titulação de um commit pa
 
 # Padrões
 
-add: {descrição}—>adicionado arquivos ou pastas;
+`add: + descrição` —>adicionado arquivos ou pastas;
 
-new: {descrição}—>novas linhas;
+`new: + descrição` —>novas linhas;
 
-del:{descrição}—> remoção de arquivos;
+`del: + descrição` —> remoção de arquivos;
 
-up:{descrição}—>criação de nova versão ou novas funcionalidades geralmente complexas e demoradas de desenvolver;
+`up: + descrição` —>criação de nova versão ou novas funcionalidades geralmente complexas e demoradas de desenvolver;
 
-debug:{descrição}—>remoção de bug que impede a funcionalidade do programa;
+`debug: + descrição` —>remoção de bug que impede a funcionalidade do programa;
 
-&: Utilizado quando se tem mais de um título;
+`&:` Utilizado quando se tem mais de um título;
